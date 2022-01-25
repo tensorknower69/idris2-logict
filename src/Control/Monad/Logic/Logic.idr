@@ -1,6 +1,6 @@
 module Control.Monad.Logic.Logic
 
-import Control.Monad.Logic.Interface
+import public Control.Monad.Logic.Interface
 import Control.Monad.Identity
 import Control.Monad.Trans
 
